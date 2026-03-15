@@ -25,5 +25,5 @@ Through this project, I practiced:
 - Creating responsive sections
 - Understanding how large e-commerce websites structure their UI
 
-## 📂 Project Structure
+
 
